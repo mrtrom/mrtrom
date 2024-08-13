@@ -5,4 +5,4 @@ I'm a passionate Backend Developer (on the Fullstack road...) & DevOps. Currentl
 
 * 🌍  I'm based in Medellín, Colombia
 * ✉️  You can contact me at [ochoaseguralex@pm.me](mailto:ochoaseguralex@pm.me)
-* 🧠  I'm learning React, Svelte, Go!
+* 🧠  I'm learning Svelte and Go!
