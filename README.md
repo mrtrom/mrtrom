@@ -29,15 +29,6 @@ Fullstack developer focused on Backend, with a DevOps mindset. I build reliable 
 
 ---
 
-### 📊 Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrtrom&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtrom&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ### 📫 Get in touch
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrtrom)
